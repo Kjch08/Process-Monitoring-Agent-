@@ -1,0 +1,8 @@
+
+Django==5.2.5
+django-cors-headers==4.7.0
+djangorestframework==3.16.1
+psutil==7.0.0
+pyinstaller==6.15.0
+requests==2.32.5
+
