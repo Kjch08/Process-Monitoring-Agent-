@@ -134,3 +134,4 @@ Response:
 - **psutil** (process monitoring)
 - **requests** (agent to API communication)
 - **CORS Headers**
+-REST API
