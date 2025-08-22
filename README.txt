@@ -58,7 +58,8 @@ pip install -r requirements.txt
 
 3. Open the frontend (if included) or use browser/Postman at:
    ```
-   http://127.0.0.1:8000/process-data/
+   
+   http://127.0.0.1:5500
    ```
 
 ---
