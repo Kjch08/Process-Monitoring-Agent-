@@ -113,6 +113,8 @@ Error Responses:
 400 Bad Request → Validation error (missing or invalid fields)
 
 2) GET /api/process-data/
+http://127.0.0.1:8000/api/process-data/-You can use this URL to send POST requests or fetch process data. The frontend (running separately at http://127.0.0.1:5500) will automatically fetch data from this API, so you don’t need to open this URL directly in the browser.
+
 
 Purpose: Returns all process records across all hosts.
 
